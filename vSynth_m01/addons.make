@@ -1,0 +1,6 @@
+ofxDelaunay
+ofxGui
+ofxOpenCv
+ofxOsc
+ofxPostGlitch
+ofxXmlSettings
