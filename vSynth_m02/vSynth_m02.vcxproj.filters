@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="src\ofApp.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxGui\src\ofxBaseGui.cpp">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxGui\src\ofxButton.cpp">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxGui\src\ofxGuiGroup.cpp">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxGui\src\ofxLabel.cpp">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxGui\src\ofxPanel.cpp">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxGui\src\ofxSlider.cpp">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxGui\src\ofxSliderGroup.cpp">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxGui\src\ofxToggle.cpp">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxMaxim\libs\fft.cpp">
+      <Filter>addons\ofxMaxim\libs</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxMaxim\libs\maxiAtoms.cpp">
+      <Filter>addons\ofxMaxim\libs</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxMaxim\libs\maxiBark.cpp">
+      <Filter>addons\ofxMaxim\libs</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxMaxim\libs\maxiFFT.cpp">
+      <Filter>addons\ofxMaxim\libs</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxMaxim\libs\maxiGrains.cpp">
+      <Filter>addons\ofxMaxim\libs</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxMaxim\libs\maxiMFCC.cpp">
+      <Filter>addons\ofxMaxim\libs</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxMaxim\libs\maximilian.cpp">
+      <Filter>addons\ofxMaxim\libs</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxMaxim\libs\stb_vorbis.c">
+      <Filter>addons\ofxMaxim\libs</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxPostGlitch\src\ofxPostGlitch.cpp">
+      <Filter>addons\ofxPostGlitch\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxXmlSettings\src\ofxXmlSettings.cpp">
+      <Filter>addons\ofxXmlSettings\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxXmlSettings\libs\tinyxml.cpp">
+      <Filter>addons\ofxXmlSettings\libs</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxXmlSettings\libs\tinyxmlerror.cpp">
+      <Filter>addons\ofxXmlSettings\libs</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxXmlSettings\libs\tinyxmlparser.cpp">
+      <Filter>addons\ofxXmlSettings\libs</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Cell.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{d8376475-7454-4a24-b08a-aac121d3ad6f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons">
+      <UniqueIdentifier>{71834F65-F3A9-211E-73B8-DC85}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxGui">
+      <UniqueIdentifier>{4F2A59AF-5F4E-704B-D067-EC13}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxGui\src">
+      <UniqueIdentifier>{645E9533-4DCD-6179-1CDF-CB65}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxImageSequenceRecorder">
+      <UniqueIdentifier>{897CE904-3E5E-71B2-4126-2C08}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxImageSequenceRecorder\src">
+      <UniqueIdentifier>{6A7F5284-57D4-5052-B04A-943F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxMaxim">
+      <UniqueIdentifier>{BB11635E-CB83-2754-C30E-4383}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxMaxim\src">
+      <UniqueIdentifier>{A5FE3CBF-BB0C-BCAC-6243-EC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxMaxim\libs">
+      <UniqueIdentifier>{093ACE73-2DC8-CF52-36D5-72AA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxPostGlitch">
+      <UniqueIdentifier>{66D05AF6-691D-5638-3F0E-8850}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxPostGlitch\src">
+      <UniqueIdentifier>{E5FAED91-B2A2-347D-7780-5FE2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxXmlSettings">
+      <UniqueIdentifier>{877F005D-13E6-0592-1D97-F2E3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxXmlSettings\src">
+      <UniqueIdentifier>{CCB2AC63-49D2-977C-CFE8-AEAD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxXmlSettings\libs">
+      <UniqueIdentifier>{687714A8-1662-FA1C-261F-50F0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\ofApp.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxGui\src\ofxBaseGui.h">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxGui\src\ofxButton.h">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxGui\src\ofxGui.h">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxGui\src\ofxGuiGroup.h">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxGui\src\ofxLabel.h">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxGui\src\ofxPanel.h">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxGui\src\ofxSlider.h">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxGui\src\ofxSliderGroup.h">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxGui\src\ofxToggle.h">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxImageSequenceRecorder\src\ofxImageSequenceRecorder.h">
+      <Filter>addons\ofxImageSequenceRecorder\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxMaxim\src\ofxMaxim.h">
+      <Filter>addons\ofxMaxim\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxMaxim\libs\fft.h">
+      <Filter>addons\ofxMaxim\libs</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxMaxim\libs\maxiAtoms.h">
+      <Filter>addons\ofxMaxim\libs</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxMaxim\libs\maxiBark.h">
+      <Filter>addons\ofxMaxim\libs</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxMaxim\libs\maxiFFT.h">
+      <Filter>addons\ofxMaxim\libs</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxMaxim\libs\maxiGrains.h">
+      <Filter>addons\ofxMaxim\libs</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxMaxim\libs\maxiMFCC.h">
+      <Filter>addons\ofxMaxim\libs</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxMaxim\libs\maximilian.h">
+      <Filter>addons\ofxMaxim\libs</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxMaxim\libs\sineTable.h">
+      <Filter>addons\ofxMaxim\libs</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxMaxim\libs\stb_vorbis.h">
+      <Filter>addons\ofxMaxim\libs</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxPostGlitch\src\ofxPostGlitch.h">
+      <Filter>addons\ofxPostGlitch\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxXmlSettings\src\ofxXmlSettings.h">
+      <Filter>addons\ofxXmlSettings\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxXmlSettings\libs\tinyxml.h">
+      <Filter>addons\ofxXmlSettings\libs</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Cell.h">
+      <Filter>src</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="icon.rc" />
+  </ItemGroup>
+</Project>
