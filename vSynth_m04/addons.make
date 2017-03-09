@@ -1,0 +1,7 @@
+ofxDelaunay
+ofxGui
+ofxImageSequenceRecorder
+ofxMaxim
+ofxOsc
+ofxPostGlitch
+ofxXmlSettings
