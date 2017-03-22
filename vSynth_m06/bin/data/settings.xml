@@ -1,0 +1,16 @@
+<group>
+	<group/>
+	<dsp>1</dsp>
+	<mov_Y>0</mov_Y>
+	<mov_X>0</mov_X>
+	<mov_Z>0</mov_Z>
+	<start_Z>0</start_Z>
+	<lim_Z>1000</lim_Z>
+	<play>0</play>
+	<period>50</period>
+<kaleidoEnabled>0</kaleidoEnabled>
+	<ksectors>8</ksectors>
+	<kangle>101.02</kangle>
+	<kx>0.459184</kx>
+	<ky>0.673469</ky>
+</group>

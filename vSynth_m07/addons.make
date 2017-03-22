@@ -1,0 +1,8 @@
+ofxDelaunay
+ofxGui
+ofxImageSequenceRecorder
+ofxMaxim
+ofxOpenCv
+ofxOsc
+ofxPostGlitch
+ofxXmlSettings
